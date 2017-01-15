@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MVPlayer</string>
+    <string name="settings">设置</string>
+    <!--底部菜单字符串-->
+    <string name="home">首页</string>
+    <string name="mv">MV</string>
+    <string name="vbang">v榜</string>
+    <string name="yuedan">悦单</string>
 </resources>
